@@ -1,0 +1,43 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMWo4gJDJXZEjCbOxoXiLay",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/FransAlex/MACHINE-LEARNING/blob/main/UTS%20/%20README\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "UTS MACHINE LEARNING\n",
+        "\n",
+        "NAMA : FRANSISKUS ALEXANDER\n",
+        "NIM : 1103210227\n",
+        "KELAS  : TK-45-02"
+      ],
+      "metadata": {
+        "id": "gmrHZ3abq1-V"
+      }
+    }
+  ]
+}
